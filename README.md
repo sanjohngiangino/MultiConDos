@@ -29,6 +29,6 @@ INSTRUCTION:
      
      In the last one we see the focal (for object detection) and binary dice loss (binary segmentation)
 
-![Image 1](https://raw.githubusercontent.com/sanjohngiangino/MultiConDos/main/finalresult.png)
+![Image 1](https://raw.githubusercontent.com/sanjohngiangino/MultiConDos/main/architecture.png)
 
 6)The files mask_generated.zip and dsgan_pred_image.zip contain the final generated masks and the T1CE to T2 image transformations, respectively.
